@@ -138,7 +138,7 @@ I'm continuously expanding my technical range, with a strong focus on:
 
 > **Build things. Break things. Understand why they broke. Fix them. Document what you learned.**
 
-I'm less interested in knowing every technology and more interested in becoming someone who can **pick up an unfamiliar system, understand it, contribute meaningfully, and explain it clearly.
+I'm less interested in knowing every technology and more interested in becoming someone who can pick up an unfamiliar system, understand it, contribute meaningfully, and explain it clearly.
 
 
 
